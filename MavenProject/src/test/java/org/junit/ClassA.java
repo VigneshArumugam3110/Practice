@@ -14,5 +14,6 @@ public class ClassA extends BaseClass{
 		//Assert.assertEquals("hello", attribute);
 		Assert.assertEquals("fb", "hello", attribute);
 		System.out.println("test1 ");
+		break();
 	}
 }
