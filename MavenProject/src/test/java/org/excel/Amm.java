@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Amm {
+public class Amm throws exception {
 	@SuppressWarnings("unlikely-arg-type")
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
